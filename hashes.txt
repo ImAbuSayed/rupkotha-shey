@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rupkotha Shey
+
+This log tracks the cryptographic history and versioning for the song **Rupkotha Shey** (rupkotha-shey).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T08:44:10.767446 | `v1` | `44a6adc2db496ec2ae307440d14a8684f7888f512853be597af20362baf7b387` | `b259e3e5f68004acbd1b559a850715149a7565eefdc8676595231f417b5ffa18` | `2026-05-11_rupkotha-shey-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
