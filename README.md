@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারের বুক চিরে ঐ আলোর রেখা জাগে
+> আমার মনের গহীন কোণে তোমার ছোঁয়া লাগে
+> অচিন দেশের রূপকথা সে ডাকছে আমায় দূরে
+> মাতাল হাওয়া ভাসায় আমায় তোমার চেনা সুরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
